@@ -22,11 +22,21 @@ I actually find this so cool, and I'm super proud of myself.
 Examples:
 
 example1.jpg
+
 ![alt text](https://raw.githubusercontent.com/CraftYun83/Image-to-Minecraft-Carpet/main/example1.jpg)
+
+
 example1-output.jpg
+
 ![alt text](https://raw.githubusercontent.com/CraftYun83/Image-to-Minecraft-Carpet/main/example1-output.jpg)
+
 </hr>
+
 example1.jpg
+
 ![alt text](https://raw.githubusercontent.com/CraftYun83/Image-to-Minecraft-Carpet/main/example2.jpg)
+
+
 example1-output.jpg
+
 ![alt text](https://raw.githubusercontent.com/CraftYun83/Image-to-Minecraft-Carpet/main/example2-output.jpg)
