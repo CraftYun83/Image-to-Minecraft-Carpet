@@ -18,7 +18,7 @@ carpet_colors = {
     "red": (200, 39, 30), #
     "black": (5, 6, 12) #
 }
-im = Image.open('image2.jpg')
+im = Image.open('example1.jpg') # or example2.jpg
 im = im.convert("RGB")
 pixels = []
 pix_as_carpet = []
@@ -39,5 +39,4 @@ for i in range(img.width):
         img.load()[i, j] = pix_as_carpet[count]
         count += 1
 
-print(len(pixels))
 img.show()
