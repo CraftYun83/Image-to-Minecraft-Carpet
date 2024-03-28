@@ -17,8 +17,6 @@ It then gets the most similar RGB value and then saves it to a new list (`pix_as
 
 It then creates a new PIL image with the same dimensions as the original image, and then reapplies all the colours, except with the colours in `pix_as_carpet`  
 
-I actually find this so cool, and I'm super proud of myself.
-
 Examples:
 
 example1.jpg
